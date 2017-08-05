@@ -1,0 +1,17 @@
+References
+
+https://www.python.org/dev/peps/pep-0249/ 
+
+http://www.mapzen.com/data/metro-extracts/ 
+
+https://pypi.python.org/pypi/phonenumbers 
+
+https://github.com/daviddrysdale/python-phonenumbers 
+
+https://docs.python.org/2/library/difflib.html 
+
+https://www.tutorialspoint.com/python/python_database_access.htm 
+
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_sql.html 
+
+https://simply-python.com/2015/01/16/rapid-input-data-from-list-of-files-to-sqlite-db/ 
